@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MovieRecommedation/static/css/main.fe12b6b8.css",
+    "main.js": "/MovieRecommedation/static/js/main.ddfef95d.js",
+    "static/media/VMovies2.png": "/MovieRecommedation/static/media/VMovies2.fa6778e9742bae3a3ab3.png",
+    "index.html": "/MovieRecommedation/index.html",
+    "main.fe12b6b8.css.map": "/MovieRecommedation/static/css/main.fe12b6b8.css.map",
+    "main.ddfef95d.js.map": "/MovieRecommedation/static/js/main.ddfef95d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe12b6b8.css",
+    "static/js/main.ddfef95d.js"
+  ]
+}
