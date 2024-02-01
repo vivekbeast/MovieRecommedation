@@ -9,7 +9,7 @@ function App() {
     <div className="App-header">
       <Router>
         <Routes>
-          <Route path="/" element={<LandingPage />} />
+          <Route path="/Movie" element={<LandingPage />} />
           <Route path="/shows/:id" element={<ShowDetails />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

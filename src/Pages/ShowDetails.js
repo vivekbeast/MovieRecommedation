@@ -12,7 +12,7 @@ const ShowDetails = () => {
   return (
 
     <div className="bg-gray-900 p-6 rounded-md shadow-md items-center">
-<Link to={`/`}><button className='bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded mb-8' >
+<Link to={`/Movie`}><button className='bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded mb-8' >
   Back
 </button></Link>
       <h2 className="text-2xl font-bold mb-4">{show.name}</h2>
